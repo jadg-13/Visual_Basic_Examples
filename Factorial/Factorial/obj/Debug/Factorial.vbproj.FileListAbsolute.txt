@@ -1,0 +1,12 @@
+C:\MisArchivos\VisualBasic\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\MisArchivos\VisualBasic\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\MisArchivos\VisualBasic\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\MisArchivos\VisualBasic\Factorial\Factorial\bin\Debug\Factorial.xml
+C:\MisArchivos\VisualBasic\Factorial\Factorial\obj\Debug\Factorial.vbproj.AssemblyReference.cache
+C:\MisArchivos\VisualBasic\Factorial\Factorial\obj\Debug\Factorial.FrmFactorial.resources
+C:\MisArchivos\VisualBasic\Factorial\Factorial\obj\Debug\Factorial.Resources.resources
+C:\MisArchivos\VisualBasic\Factorial\Factorial\obj\Debug\Factorial.vbproj.GenerateResource.cache
+C:\MisArchivos\VisualBasic\Factorial\Factorial\obj\Debug\Factorial.vbproj.CoreCompileInputs.cache
+C:\MisArchivos\VisualBasic\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\MisArchivos\VisualBasic\Factorial\Factorial\obj\Debug\Factorial.xml
+C:\MisArchivos\VisualBasic\Factorial\Factorial\obj\Debug\Factorial.pdb
