@@ -1,0 +1,13 @@
+D:\source\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.exe.config
+D:\source\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.exe
+D:\source\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.pdb
+D:\source\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.xml
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.vbproj.AssemblyReference.cache
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.FrmProducts.resources
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.Resources.resources
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.vbproj.GenerateResource.cache
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.vbproj.CoreCompileInputs.cache
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.exe
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.xml
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.pdb
+D:\source\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.FrmPrincipal.resources
